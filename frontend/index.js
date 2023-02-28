@@ -44,3 +44,4 @@ export const vdocs4 = 4;
 // 2025-09-10T08:24:04Z chore: setup CI placeholders
 // 2025-09-10T08:24:06Z chore: add coverage reporting
 // 2025-09-10T08:24:07Z chore: release notes and changelog
+// 2025-09-10T08:24:40Z chore: add basic .editorconfig and lint settings
