@@ -95,3 +95,4 @@ docs change 6
 - 2025-09-10T08:24:06Z docs: tokenomics and economics
 - 2025-09-10T08:24:06Z docs: roadmap and milestones
 - 2025-09-10T08:24:06Z docs: glossary
+- 2025-09-10T08:24:40Z docs: initial README and LICENSE
