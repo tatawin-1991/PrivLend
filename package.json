@@ -1,0 +1,8 @@
+{
+  "name": "privlend-starter",
+  "private": true,
+  "workspaces": ["frontend", "backend"],
+  "scripts": {
+    "dev": "echo placeholder"
+  }
+}

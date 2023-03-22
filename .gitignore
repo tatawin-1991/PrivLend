@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+.env
+
+# Local data (never commit)
+github_accounts.csv
+project_description.txt
+
+# Builds
+dist/
+build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
