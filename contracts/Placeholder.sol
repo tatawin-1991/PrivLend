@@ -69,3 +69,4 @@ contract Placeholder {
 // 2025-09-10T08:24:41Z feat: credit score model interface and types
 // 2025-09-10T08:24:41Z feat: FHE SDK adapter stub
 // 2025-09-10T08:24:41Z feat: on-chain credit score contract draft
+// 2025-09-10T08:24:41Z feat: pool contract scaffold
