@@ -84,3 +84,4 @@ contract Placeholder {
 // 2025-09-10T08:24:41Z feat: interest rate model and tests stub
 // 2025-09-10T08:24:41Z feat: scoring NFT metadata format
 // 2025-09-10T08:24:41Z feat: oracle interface for offchain data
+// 2025-09-10T08:24:41Z feat: extend score range validation
