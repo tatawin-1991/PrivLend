@@ -81,3 +81,4 @@ contract Placeholder {
 // 2025-09-10T08:24:41Z perf: batch processing for FHE ops
 // 2025-09-10T08:24:41Z feat: emit events for score updates
 // 2025-09-10T08:24:41Z feat: add governance token ABI
+// 2025-09-10T08:24:41Z feat: interest rate model and tests stub
