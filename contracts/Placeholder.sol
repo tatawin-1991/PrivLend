@@ -67,3 +67,4 @@ contract Placeholder {
 // 2025-09-10T08:24:40Z feat: frontend dev server and landing page
 // 2025-09-10T08:24:40Z feat: contracts compile script
 // 2025-09-10T08:24:41Z feat: credit score model interface and types
+// 2025-09-10T08:24:41Z feat: FHE SDK adapter stub
