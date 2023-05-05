@@ -73,3 +73,4 @@ contract Placeholder {
 // 2025-09-10T08:24:41Z feat: lending logic with dynamic LTV
 // 2025-09-10T08:24:41Z feat: frontend upload encrypted data flow
 // 2025-09-10T08:24:41Z feat: backend encryption proxy endpoint
+// 2025-09-10T08:24:41Z feat: dao config for weights management
