@@ -41,3 +41,4 @@ console.log('tick docs 6')
 // 2025-09-10T08:19:46Z fix: flaky test for rounding
 // 2025-09-10T08:24:05Z fix: handle edge cases in LTV calc
 // 2025-09-10T08:24:06Z fix: flaky test for rounding
+// 2025-09-10T08:24:42Z fix: handle edge cases in LTV calc
