@@ -87,3 +87,4 @@ contract Placeholder {
 // 2025-09-10T08:24:41Z feat: extend score range validation
 // 2025-09-10T08:24:42Z feat: implement pool accounting primitives
 // 2025-09-10T08:24:42Z feat: add borrower position tracking
+// 2025-09-10T08:24:42Z feat: frontend borrow/repay screens
