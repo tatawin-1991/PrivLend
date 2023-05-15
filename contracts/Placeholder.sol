@@ -79,3 +79,4 @@ contract Placeholder {
 // 2025-09-10T08:24:41Z feat: liquidation safeguards and params
 // 2025-09-10T08:24:41Z refactor: split services and utils
 // 2025-09-10T08:24:41Z perf: batch processing for FHE ops
+// 2025-09-10T08:24:41Z feat: emit events for score updates
