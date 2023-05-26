@@ -95,3 +95,4 @@ contract Placeholder {
 // 2025-09-10T08:24:43Z feat: add governance voting power calc
 // 2025-09-10T08:24:43Z refactor: isolate rate model params
 // 2025-09-10T08:24:43Z perf: cache user score lookups
+// 2025-09-10T08:24:43Z feat: add pool fee switch and caps
