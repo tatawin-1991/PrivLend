@@ -44,3 +44,4 @@ console.log('tick docs 6')
 // 2025-09-10T08:24:42Z fix: handle edge cases in LTV calc
 // 2025-09-10T08:24:42Z fix: flaky test for rounding
 // 2025-09-10T08:24:43Z fix: correct score normalization edge conditions
+// 2025-09-10T08:24:43Z fix: handle invalid oracle payload
