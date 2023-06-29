@@ -100,3 +100,4 @@ contract Placeholder {
 // 2025-09-10T08:24:43Z refactor: unify error codes
 // 2025-09-10T08:24:43Z perf: reduce on-chain storage writes
 // 2025-09-10T08:24:44Z feat: add protocol pause guardian
+// 2025-09-10T08:24:44Z feat: extend event topics for indexing
