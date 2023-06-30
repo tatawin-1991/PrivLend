@@ -93,3 +93,4 @@ contract Placeholder {
 // 2025-09-10T08:24:42Z refactor: reduce bundle size
 // 2025-09-10T08:24:42Z feat: add e2e test scaffolding
 // 2025-09-10T08:24:43Z feat: add governance voting power calc
+// 2025-09-10T08:24:43Z refactor: isolate rate model params
