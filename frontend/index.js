@@ -48,3 +48,4 @@ export const vdocs4 = 4;
 // 2025-09-10T08:24:40Z chore: add npm scripts and workspace config
 // 2025-09-10T08:24:40Z chore: configure testing framework
 // 2025-09-10T08:24:40Z chore: setup CI placeholders
+// 2025-09-10T08:24:42Z chore: add coverage reporting
