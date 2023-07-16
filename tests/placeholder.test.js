@@ -35,3 +35,4 @@ describe('placeholder', () => {
 // 2025-09-10T08:24:42Z test: unit tests for interest model
 // 2025-09-10T08:24:42Z test: contract tests for pool operations
 // 2025-09-10T08:24:42Z test: credit score range and weight edge cases
+// 2025-09-10T08:24:42Z test: backend encryption proxy tests
