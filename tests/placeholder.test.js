@@ -32,3 +32,4 @@ describe('placeholder', () => {
 // 2025-09-10T08:24:05Z test: frontend components basic tests
 // 2025-09-10T08:24:06Z test: e2e happy path borrow
 // 2025-09-10T08:24:06Z test: e2e liquidation path
+// 2025-09-10T08:24:42Z test: unit tests for interest model
