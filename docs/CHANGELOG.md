@@ -99,3 +99,4 @@ docs change 6
 - 2025-09-10T08:24:42Z docs: architecture overview and diagrams
 - 2025-09-10T08:24:42Z docs: API references for services
 - 2025-09-10T08:24:43Z docs: contract specs and events
+- 2025-09-10T08:24:43Z docs: scoring model documentation
