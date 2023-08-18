@@ -104,3 +104,4 @@ docs change 6
 - 2025-09-10T08:24:43Z docs: deployment and env guide
 - 2025-09-10T08:24:43Z docs: troubleshooting common issues
 - 2025-09-10T08:24:43Z docs: security considerations
+- 2025-09-10T08:24:43Z docs: tokenomics and economics
