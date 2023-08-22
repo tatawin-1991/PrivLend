@@ -96,3 +96,4 @@ docs change 6
 - 2025-09-10T08:24:06Z docs: roadmap and milestones
 - 2025-09-10T08:24:06Z docs: glossary
 - 2025-09-10T08:24:40Z docs: initial README and LICENSE
+- 2025-09-10T08:24:42Z docs: architecture overview and diagrams
