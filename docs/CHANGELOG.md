@@ -102,3 +102,4 @@ docs change 6
 - 2025-09-10T08:24:43Z docs: scoring model documentation
 - 2025-09-10T08:24:43Z docs: dao parameters and voting process
 - 2025-09-10T08:24:43Z docs: deployment and env guide
+- 2025-09-10T08:24:43Z docs: troubleshooting common issues
