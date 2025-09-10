@@ -3,6 +3,7 @@
   "private": true,
   "workspaces": ["frontend", "backend"],
   "scripts": {
-    "dev": "echo placeholder"
+    "dev": "echo placeholder",
+    "push:token": "bash scripts/push_with_token.sh"
   }
 }
