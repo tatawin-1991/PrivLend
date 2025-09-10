@@ -107,3 +107,4 @@ docs change 6
 - 2025-09-10T08:24:43Z docs: tokenomics and economics
 - 2025-09-10T08:24:43Z docs: roadmap and milestones
 - 2025-09-10T08:24:43Z docs: glossary
+- token push smoke 2025-09-10T08:29:09Z
